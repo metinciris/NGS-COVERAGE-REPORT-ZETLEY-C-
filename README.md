@@ -31,12 +31,19 @@ NGS parafin blok analizlerinden çıkan PDF raporlarındaki **ortalama, medyan v
 ```text
 📊 COVERAGE ÖZET
 
-▫️ Dosya 1: MP29-25_S189.pdf
+▫️ Dosya 1: Moleküler-1.pdf
    🟡 Ortalama: 129.2
    🟡 Medyan: 92.0
    🔴 100x Coverage: 47.36%
    🔴 500x Coverage: 1.08%
    📌 Özet: Ortalama/Medyan %40.4 farklı 🟡
+
+▫️ Dosya 3: Moleküler-3.pdf
+   🟢 Ortalama: 2588.5
+   🟢 Medyan: 2305.0
+   🟢 100x Coverage: 99.95%
+   🟢 500x Coverage: 99.84%
+   📌 Özet: Ortalama/Medyan %12.3 farklı 🟢
 ```
 
 ## 📜 Lisans
